@@ -1,7 +1,7 @@
 # Loan-Default-Prediction
 
 Financial institutions such as Banks play a crucial role in market economies. 
-For various reasons like buying a house and starting business, individuals and companies need access to loan or credit.
+For various reasons like buying a house or starting business, individuals and companies need access to loan or credit.
 However,not every loan application can be approved.
 To mitigate the impact of default risk, banks or other types of lender need to have strong prediction 
 accuracy about how capable each applicant on repaying a loan.
