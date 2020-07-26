@@ -10,7 +10,7 @@ The goal of this project is to develop machine learning model that can predict t
 or in the other words, how likely somebody will experience financial distress in repaying their loan.
 In machine learning, this kind of problems is known as binary classification. 
 So any machine learning method that can be used for binary classification problems can also be applied to this problems as well.
-In this particular study, I will use three different machine learning methods and compare their performace. 
+In this particular study, I used three different machine learning methods and compare their performace. 
 Those three methods are Logistic Regression, Random Forest and Decision Tree. 
 
 The dataset used for this project is obtained from the competition titled “Loan Default Prediction - Imperial College London” in kaggle.com. 
